@@ -1,0 +1,105 @@
+#ust{
+	height:80px;
+	padding-top: 10px;
+}
+#icerik{
+	min-height: 600px;
+}
+#alt{
+	min-height: 50px;
+}
+
+#icerik #sol .kutu{
+	background-color: #fff;
+	width: 100%;
+	min-height:80px;
+	margin:20px 0;
+	border:1px solid #D9D7D7;
+	padding: 20px 30px;
+}
+#icerik #sol .kutu a{
+	text-decoration: none;
+	padding: 4px 0;
+}
+#icerik #sol .kutu a h3{
+	color:#000;
+	font-size: 25px;
+	font-weight: bold;
+}
+#icerik #sol .kutu .tarih{
+	padding: 4px 0;
+	font-size:13px;
+}
+#icerik #sol .kutu .icerik{
+	font-size:15px;
+	padding: 4px 0;
+}
+#icerik #sol .kutu .okunma{
+	font-size:13px;
+	padding: 4px 0;
+}
+
+#icerik #sag .kutu{
+	background-color: #fff;
+	width: 100%;
+	min-height: 600px;
+	margin:20px 0;
+	border: 1px solid #d9d7d7;
+	padding: 20px 30px;
+}
+#icerik #sag .kutu h2{
+	font-size: 18px;
+	font-weight: 600;
+	color:#777272;
+}
+.sag_kategoriler{
+	list-style: none;
+	padding:0;
+}
+.sag_kategoriler li{
+	padding :8px 0;
+	border-bottom:1px solid #d9d7d7;
+}
+.sag_kategoriler li a{
+	font-size: 14px;
+	color:#C4B9B9;
+	text-decoration: none;
+
+}
+.sag_son_yorumlananlar{
+	list-style: none;
+	padding:0;
+}
+.sag_son_yorumlananlar li{
+	padding :8px 0;
+	border-bottom:1px solid #d9d7d7;
+}
+.sag_son_yorumlananlar li a{
+	font-size: 14px;
+	color:#C4B9B9;
+	text-decoration: none;
+
+}
+.sag_en_cok_gorunenler{
+	list-style: none;
+	padding:0;
+}
+.sag_en_cok_gorunenler li{
+	padding :8px 0;
+	border-bottom:1px solid #d9d7d7;
+}
+.sag_en_cok_gorunenler li a{
+	font-size: 14px;
+	color:#C4B9B9;
+	text-decoration: none;
+}
+.imza{
+	margin-top:5px;}
+.imza a{
+	text-decoration: none;
+	color:#fff;
+}
+
+.ust_menu{ list-style: none; margin-top: 15px;}
+.ust_menu li{ display: inline-block; padding: 4px 8px }
+.ust_menu li a{ text-decoration: none; color:#fff; font-size: 12px; }
